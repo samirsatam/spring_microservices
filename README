@@ -6,3 +6,6 @@ ZUUL gateway for dynamic routing, monitoring, security.
 Netflix Eureka server for microservice discovery.
 Netflix Ribbon for load balancing.
 
+
+How to start the zipkin server.
+RABBIT_URI=amqp://localhost java -jar zipkin.jar
