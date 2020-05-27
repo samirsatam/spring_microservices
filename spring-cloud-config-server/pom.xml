@@ -31,7 +31,7 @@
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
-		<!--  we use the spring clod=ud bus to update properties in all microservices without having to restart them. 
+		<!--  we use the spring cloud bus to update properties in all microservices without having to restart them. 
 		localhost:8080/actuator/bus-refresh to refresh the bus.-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>

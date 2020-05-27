@@ -1,0 +1,8 @@
+Hystrix for fault tolerence.
+Spring bus for sending property updates to various microservices.
+Zipkin/RabbitMQ for distributed tracing.
+Distributed logging with Spring Sleuth.
+ZUUL gateway for dynamic routing, monitoring, security.
+Netflix Eureka server for microservice discovery.
+Netflix Ribbon for load balancing.
+
